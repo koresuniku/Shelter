@@ -1,5 +1,10 @@
+**Download <a href="https://github.com/koresuniku/Shelter/releases/download/1.0.0/shelter-1.0.0.apk">latest_release.APK**</a>
+=====================
+
+
+
 Pets App
-===================================
+--------------------------
 
 This app displays a list of pets and their related data that the user inputs.
 Used in a Udacity course in the Android Basics Nanodegree by Google.
